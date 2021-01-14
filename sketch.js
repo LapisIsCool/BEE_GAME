@@ -160,7 +160,7 @@ function draw(){
             } else {
                 textSize(32);
                 fill("red");
-                text("You don't have enough necter!", windowWidth / 2-200, windowHeight / 2+50);
+                text("You don't have enough nectar!", windowWidth / 2-200, windowHeight / 2+50);
             }
         }
 
